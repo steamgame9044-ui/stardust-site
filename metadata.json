@@ -1,0 +1,6 @@
+{
+  "name": "StarDust English Academy",
+  "description": "Bilingual English language academy platform with courses, study booklets, Telegram checkout, free YouTube lessons, blog, student dashboard, admin panel, and exportable PHP 8+ / MySQL shared hosting package.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
